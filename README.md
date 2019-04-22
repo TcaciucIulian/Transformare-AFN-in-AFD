@@ -15,7 +15,7 @@ Documentatie:
   Descriere implementare:     
 
 * Programul prezinta 2 structuri cu denumiri semnificative ( AFN , AFD ) in care se memoreaza informatii despre AFN, respectiv AFD.
-Acesta contine 8 metode, fiecare cu un rol semnificativ ( creareGraf, cautareVector, intersectareStari, creareTabel, scriereInversa, cautareNumar, creareAFD, citireAFD )
+Acesta contine 8 metode, fiecare cu un rol semnificativ ( creareGraf, cautareVector, intersectareStari, creareTabel, scriereInversa, cautareNumar, creareAFD, citireAFD ). Se citeste din fisierul "AFN.txt " si se afiseaza in "AFD.txt".
 
 
 
