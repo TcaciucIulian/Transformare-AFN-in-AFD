@@ -1,0 +1,1 @@
+# Transformare AFN->AFD
